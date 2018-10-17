@@ -1,0 +1,19 @@
+{
+    "name": "@wurren/bascss",
+    "version": "1.0.0",
+    "description": "A Handy Set of SCSS Helpers",
+    "main": "bascss.scss",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Wurren/bascss.git"
+    },
+    "keywords": [
+        "scss"
+    ],
+    "author": "Warren Haskins <warrenhaskins@gmail.com> (http://warrenhaskins.xyz)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Wurren/bascss/issues"
+    },
+    "homepage": "https://github.com/Wurren/bascss#readme"
+}
